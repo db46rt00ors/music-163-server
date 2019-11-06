@@ -59,117 +59,133 @@
 			}]
 		}],
 		"recommend":[{
+			"id":"1001",
 			"musicName":"数字人生",
 			"musicSinger":"林子祥",
-			"musicUrl":"/music/recommend/林子祥-数字人生.mp3",
-			"musicLrc":"/music/recommend/林子祥-数字人生.lrc",
-			"singerImg":"/music/recommend/林子祥.jpg",
-			"playerbg":"/music/recommend/林子祥bg.jpg"
+			"musicUrl":"/music/recommend/1001/林子祥-数字人生.mp3",
+			"musicLrc":"/music/recommend/1001/林子祥-数字人生.lrc",
+			"singerImg":"/music/recommend/1001/林子祥.jpg",
+			"playerbg":"/music/recommend/1001/林子祥bg.jpg"
 		},{
+			"id":"1002",
 			"musicName":"野狼disco",
 			"musicSinger":"宝石gem",
-			"musicUrl":"/music/recommend/宝石gem-野狼disco.mp3",
-			"musicLrc":"/music/recommend/宝石gem-野狼disco.lrc",
-			"singerImg":"/music/recommend/野狼disco.gif",
-			"playerbg":"/music/recommend/野狼discobg.jpg"
+			"musicUrl":"/music/recommend/1002/宝石gem-野狼disco.mp3",
+			"musicLrc":"/music/recommend/1002/宝石gem-野狼disco.lrc",
+			"singerImg":"/music/recommend/1002/野狼disco.gif",
+			"playerbg":"/music/recommend/1002/野狼discobg.jpg"
 		},{
+			"id":"1003",
 			"musicName":"不必在乎我是谁(Live)",
 			"musicSinger":"李宗盛",
-			"musicUrl":"/music/recommend/李宗盛-不必在乎我是谁(Live).mp3",
-			"musicLrc":"/music/recommend/李宗盛-不必在乎我是谁(Live).lrc",
-			"singerImg":"/music/recommend/李宗盛.jpg",
-			"playerbg":"/music/recommend/李宗盛bg.jpg"
+			"musicUrl":"/music/recommend/1003/李宗盛-不必在乎我是谁(Live).mp3",
+			"musicLrc":"/music/recommend/1003/李宗盛-不必在乎我是谁(Live).lrc",
+			"singerImg":"/music/recommend/1003/李宗盛.jpg",
+			"playerbg":"/music/recommend/1003/李宗盛bg.jpg"
 		},{
+			"id":"1004",
 			"musicName":"大田后生仔",
 			"musicSinger":"林啟得",
-			"musicUrl":"/music/recommend/空好风-大田后生仔（cover：林啟得）.mp3",
-			"musicLrc":"/music/recommend/空好风-大田后生仔（cover：林啟得）.lrc",
-			"singerImg":"/music/recommend/林启得.jpg",
-			"playerbg":"/music/recommend/林启得bg.jpg"
+			"musicUrl":"/music/recommend/1004/空好风-大田后生仔（cover：林啟得）.mp3",
+			"musicLrc":"/music/recommend/1004/空好风-大田后生仔（cover：林啟得）.lrc",
+			"singerImg":"/music/recommend/1004/林启得.jpg",
+			"playerbg":"/music/recommend/1004/林启得bg.jpg"
 		},{
+			"id":"1005",
 			"musicName":"白鸽",
 			"musicSinger":"伍佰",
-			"musicUrl":"/music/recommend/伍佰-白鸽.mp3",
-			"musicLrc":"/music/recommend/伍佰-白鸽.lrc",
-			"singerImg":"/music/recommend/伍佰.jpg",
-			"playerbg":"/music/recommend/伍佰bg.jpg"
+			"musicUrl":"/music/recommend/1005/伍佰-白鸽.mp3",
+			"musicLrc":"/music/recommend/1005/伍佰-白鸽.lrc",
+			"singerImg":"/music/recommend/1005/伍佰.jpg",
+			"playerbg":"/music/recommend/1005/伍佰bg.jpg"
 		},{
+			"id":"1006",
 			"musicName":"挪威的森林",
 			"musicSinger":"伍佰",
-			"musicUrl":"/music/recommend/伍佰-挪威的森林.mp3",
-			"musicLrc":"/music/recommend/伍佰-挪威的森林.lrc",
-			"singerImg":"/music/recommend/伍佰.jpg",
-			"playerbg":"/music/recommend/伍佰bg.jpg"
+			"musicUrl":"/music/recommend/1006/伍佰-挪威的森林.mp3",
+			"musicLrc":"/music/recommend/1006/伍佰-挪威的森林.lrc",
+			"singerImg":"/music/recommend/1006/伍佰.jpg",
+			"playerbg":"/music/recommend/1006/伍佰bg.jpg"
 		},{
+			"id":"1007",
 			"musicName":"无情的雨无情的你",
 			"musicSinger":"齐秦",
-			"musicUrl":"/music/recommend/无情的雨无情的你 - 齐秦.mp3",
-			"musicLrc":"/music/recommend/无情的雨无情的你 - 齐秦.lrc",
-			"singerImg":"/music/recommend/13947771055674.jpg",
-			"playerbg":"/music/recommend/24048_n.jpg"
+			"musicUrl":"/music/recommend/1007/无情的雨无情的你 - 齐秦.mp3",
+			"musicLrc":"/music/recommend/1007/无情的雨无情的你 - 齐秦.lrc",
+			"singerImg":"/music/recommend/1007/13947771055674.jpg",
+			"playerbg":"/music/recommend/1007/24048_n.jpg"
 		},{
+			"id":"1008",
 			"musicName":"成都",
 			"musicSinger":"赵雷",
-			"musicUrl":"/music/recommend/赵雷 - 成都.mp3",
-			"musicLrc":"/music/recommend/赵雷 - 成都.lrc",
-			"singerImg":"/music/recommend/赵雷.jpg",
-			"playerbg":"/music/recommend/赵雷bg.jpg"
+			"musicUrl":"/music/recommend/1008/赵雷 - 成都.mp3",
+			"musicLrc":"/music/recommend/1008/赵雷 - 成都.lrc",
+			"singerImg":"/music/recommend/1008/赵雷.jpg",
+			"playerbg":"/music/recommend/1008/赵雷bg.jpg"
 		},{
+			"id":"1009",
 			"musicName":"温柔乡",
 			"musicSinger":"陈雅森",
-			"musicUrl":"/music/recommend/陈雅森 - 温柔乡.mp3",
-			"musicLrc":"/music/recommend/陈雅森 - 温柔乡.lrc",
-			"singerImg":"/music/recommend/陈雅森.jpg",
-			"playerbg":"/music/recommend/陈雅森bg.jpg"
+			"musicUrl":"/music/recommend/1009/陈雅森 - 温柔乡.mp3",
+			"musicLrc":"/music/recommend/1009/陈雅森 - 温柔乡.lrc",
+			"singerImg":"/music/recommend/1009/陈雅森.jpg",
+			"playerbg":"/music/recommend/1009/陈雅森bg.jpg"
 		},{
+			"id":"1010",
 			"musicName":"丫头",
 			"musicSinger":"王童语",
-			"musicUrl":"/music/recommend/王童语 - 丫头.mp3",
-			"musicLrc":"/music/recommend/王童语 - 丫头.lrc",
-			"singerImg":"/music/recommend/王童语.jpg",
-			"playerbg":"/music/recommend/王童语bg.jpg"
+			"musicUrl":"/music/recommend/1010/王童语 - 丫头.mp3",
+			"musicLrc":"/music/recommend/1010/王童语 - 丫头.lrc",
+			"singerImg":"/music/recommend/1010/王童语.jpg",
+			"playerbg":"/music/recommend/1010/王童语bg.jpg"
 		},{
+			"id":"1011",
 			"musicName":"爱河",
 			"musicSinger":"神马乐团",
-			"musicUrl":"/music/recommend/爱河 - 神马乐团.mp3",
-			"musicLrc":"/music/recommend/爱河 - 神马乐团.lrc",
-			"singerImg":"/music/recommend/神马乐团.jpg",
-			"playerbg":"/music/recommend/神马乐团bg.jpg"
+			"musicUrl":"/music/recommend/1011/爱河 - 神马乐团.mp3",
+			"musicLrc":"/music/recommend/1011/爱河 - 神马乐团.lrc",
+			"singerImg":"/music/recommend/1011/神马乐团.jpg",
+			"playerbg":"/music/recommend/1011/神马乐团bg.jpg"
 		},{
+			"id":"1012",
 			"musicName":"勉为其难",
 			"musicSinger":"王冕",
-			"musicUrl":"/music/recommend/王冕 - 勉为其难.mp3",
-			"musicLrc":"/music/recommend/勉为其难.lrc",
-			"singerImg":"/music/recommend/王冕.jpg",
-			"playerbg":"/music/recommend/王冕bg.jpg"
+			"musicUrl":"/music/recommend/1012/王冕 - 勉为其难.mp3",
+			"musicLrc":"/music/recommend/1012/勉为其难.lrc",
+			"singerImg":"/music/recommend/1012/王冕.jpg",
+			"playerbg":"/music/recommend/1012/王冕bg.jpg"
 		},{
+			"id":"1013",
 			"musicName":"远走高飞",
 			"musicSinger":"金志文、徐佳莹",
-			"musicUrl":"/music/recommend/金志文、徐佳莹 - 远走高飞.mp3",
-			"musicLrc":"/music/recommend/金志文、徐佳莹 - 远走高飞.lrc",
-			"singerImg":"/music/recommend/金志文.jpg",
-			"playerbg":"/music/recommend/金志文bg.jpg"
+			"musicUrl":"/music/recommend/1013/金志文、徐佳莹 - 远走高飞.mp3",
+			"musicLrc":"/music/recommend/1013/金志文、徐佳莹 - 远走高飞.lrc",
+			"singerImg":"/music/recommend/1013/金志文.jpg",
+			"playerbg":"/music/recommend/1013/金志文bg.jpg"
 		},{
+			"id":"1014",
 			"musicName":"这个年纪",
 			"musicSinger":"齐一",
-			"musicUrl":"/music/recommend/齐一 - 这个年纪.mp3",
-			"musicLrc":"/music/recommend/齐一 - 这个年纪.lrc",
-			"singerImg":"/music/recommend/齐一.jpg",
-			"playerbg":"/music/recommend/齐一bg.jpg"
+			"musicUrl":"/music/recommend/1014/齐一 - 这个年纪.mp3",
+			"musicLrc":"/music/recommend/1014/齐一 - 这个年纪.lrc",
+			"singerImg":"/music/recommend/1014/齐一.jpg",
+			"playerbg":"/music/recommend/1014/齐一bg.jpg"
 		},{
+			"id":"1015",
 			"musicName":"起风了（Cover 高橋優）",
 			"musicSinger":"买辣椒也用券",
-			"musicUrl":"/music/recommend/买辣椒也用券 - 起风了（Cover 高橋優）.mp3",
-			"musicLrc":"/music/recommend/买辣椒也用券 - 起风了（Cover 高橋優）.lrc",
-			"singerImg":"/music/recommend/起风了.jpg",
-			"playerbg":"/music/recommend/买辣椒也用券.jpg"
+			"musicUrl":"/music/recommend/1015/买辣椒也用券 - 起风了（Cover 高橋優）.mp3",
+			"musicLrc":"/music/recommend/1015/买辣椒也用券 - 起风了（Cover 高橋優）.lrc",
+			"singerImg":"/music/recommend/1015/起风了.jpg",
+			"playerbg":"/music/recommend/1015/买辣椒也用券.jpg"
 		},{
+			"id":"1016",
 			"musicName":"你曾是少年",
 			"musicSinger":"SHE",
-			"musicUrl":"/music/recommend/SHE - 你曾是少年.mp3",
-			"musicLrc":"/music/recommend/SHE - 你曾是少年.lrc",
-			"singerImg":"/music/recommend/she.jpg",
-			"playerbg":"/music/recommend/SHEbg.jpg"
+			"musicUrl":"/music/recommend/1016/SHE - 你曾是少年.mp3",
+			"musicLrc":"/music/recommend/1016SHE - 你曾是少年.lrc",
+			"singerImg":"/music/recommend/1016/she.jpg",
+			"playerbg":"/music/recommend/1016/SHEbg.jpg"
 		}]
 	}
 }
