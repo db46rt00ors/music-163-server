@@ -11,5 +11,8 @@
   "dependencies": {
     "express": "^4.17.1",
     "formidable": "^1.2.1"
+  },
+  "devDependencies": {
+    "mongoose": "^5.7.9"
   }
 }

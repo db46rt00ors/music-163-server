@@ -1,0 +1,69 @@
+{
+    "albumImg": "/music/album/我要的幸福/No.2《我要的幸福》(2000.12.07).jpg",
+    "albumTitle": "我要的幸福",
+    "albumSinger": "孙燕姿",
+    "albumbg": "/music/album/我要的幸福/albumbg.jpg",
+    "playerbg": "/music/album/我要的幸福/playerbg.jpg",
+    "albumList": [
+        {
+            "musicName": "我要我的幸福",
+            "musicSinger": "孙燕姿",
+            "musicUrl": "/music/album/我要的幸福/01 我要我的幸福.mp3",
+            "musicLrc": "/music/album/我要的幸福/01 我要的幸福.lrc"
+        },
+        {
+            "musicName": "坏天气",
+            "musicSinger": "孙燕姿",
+            "musicUrl": "/music/album/我要的幸福/02 坏天气.mp3",
+            "musicLrc": "/music/album/我要的幸福/02 坏天气.lrc"
+        },
+        {
+            "musicName": "零缺点",
+            "musicSinger": "孙燕姿",
+            "musicUrl": "/music/album/我要的幸福/03 零缺点.mp3",
+            "musicLrc": "/music/album/我要的幸福/03 零缺点.lrc"
+        },
+        {
+            "musicName": "开始懂了",
+            "musicSinger": "孙燕姿",
+            "musicUrl": "/music/album/我要的幸福/04 开始懂了.mp3",
+            "musicLrc": "/music/album/我要的幸福/04 开始懂了.lrc"
+        },
+        {
+            "musicName": "中间地带",
+            "musicSinger": "孙燕姿",
+            "musicUrl": "/music/album/我要的幸福/05 中间地带.mp3",
+            "musicLrc": "/music/album/我要的幸福/05 中间地带.lrc"
+        },
+        {
+            "musicName": "相信",
+            "musicSinger": "孙燕姿",
+            "musicUrl": "/music/album/我要的幸福/06 相信.mp3",
+            "musicLrc": "/music/album/我要的幸福/06 相信.lrc"
+        },
+        {
+            "musicName": "累赘",
+            "musicSinger": "孙燕姿",
+            "musicUrl": "/music/album/我要的幸福/07 累赘.mp3",
+            "musicLrc": "/music/album/我要的幸福/07 累赘.lrc"
+        },
+        {
+            "musicName": "难得一见",
+            "musicSinger": "孙燕姿",
+            "musicUrl": "/music/album/我要的幸福/08 难得一见.mp3",
+            "musicLrc": "/music/album/我要的幸福/08 难得一见.lrc"
+        },
+        {
+            "musicName": "害怕",
+            "musicSinger": "孙燕姿",
+            "musicUrl": "/music/album/我要的幸福/09 害怕.mp3",
+            "musicLrc": "/music/album/我要的幸福/09 害怕.lrc"
+        },
+        {
+            "musicName": "星期一天气晴我离开你",
+            "musicSinger": "孙燕姿",
+            "musicUrl": "/music/album/我要的幸福/10 星期一天气晴我离开你.mp3",
+            "musicLrc": "/music/album/我要的幸福/10 星期一天气晴我离开你.lrc"
+        }
+    ]
+}

@@ -73,15 +73,6 @@
         ],
         "recommend": [
             {
-                "id": "u1k53b8vpk",
-                "musicName": "永远永远",
-                "musicSinger": "888888",
-                "musicUrl": "/music/recommend/u1k53b8vpk/upload_49cbf544d6fc6c349c9950fe8ee93973.mp3",
-                "musicLrc": "/music/recommend/u1k53b8vpk/upload_084cfbb8d06cf17459040feb3471fe3a.lrc",
-                "singerImg": "/music/recommend/u1k53b8vpk/upload_65010caca7c2f3bbc33ef7995a3fdd74.jpg",
-                "playerbg": "/music/recommend/u1k53b8vpk/upload_c07d7b1224a99f59e437be59ad14b2fe.jpg"
-            },
-            {
                 "id": "1001",
                 "musicName": "数字人生",
                 "musicSinger": "林子祥",
